@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Frontend such as HTML and CSS<br>I am learning C Program and how to integrate it<br>Student from Divine Word College of Legazpi, SHS Department<br>Gr. 12 Fr. Theodore Buttenbruch, SVD<br>
+Currently learning on C, Python, HTML and CSS<br>I want to be a Backend Engineer in the future<br>Student from Bicol University<br>BS Computer Science 1A<br>
 
 
 ## 🌐 Socials:
