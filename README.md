@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning on C, Python, HTML and CSS<br>I want to be a Backend Engineer in the future<br>Student from Bicol University<br>BS Computer Science 1A<br>
+<br>Student from Bicol University<br>BS Computer Science 1A<br>
 
 
 ## 🌐 Socials:
